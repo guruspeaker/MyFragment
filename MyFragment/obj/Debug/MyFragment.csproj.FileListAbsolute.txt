@@ -1,0 +1,17 @@
+c:\users\paulc\source\repos\MyFragment\MyFragment\bin\Debug\MyFragment.dll
+c:\users\paulc\source\repos\MyFragment\MyFragment\bin\Debug\MyFragment.pdb
+c:\users\paulc\source\repos\MyFragment\MyFragment\bin\Debug\MyFragment.MyFragment.apk
+c:\users\paulc\source\repos\MyFragment\MyFragment\bin\Debug\MyFragment.MyFragment-Signed.apk
+c:\users\paulc\source\repos\MyFragment\MyFragment\obj\Debug\MyFragment.csproj.CoreCompileInputs.cache
+c:\users\paulc\source\repos\MyFragment\MyFragment\obj\Debug\MyFragment.dll
+c:\users\paulc\source\repos\MyFragment\MyFragment\obj\Debug\MyFragment.pdb
+c:\users\paulc\source\repos\MyFragment\MyFragment\obj\Debug\android\bin\MyFragment.MyFragment.apk
+c:\users\paulc\source\repos\MyFragment\MyFragment\obj\Debug\res\layout\main.xml
+c:\users\paulc\source\repos\MyFragment\MyFragment\obj\Debug\res\values\strings.xml
+c:\users\paulc\source\repos\MyFragment\MyFragment\obj\Debug\R.cs.flag
+c:\users\paulc\source\repos\MyFragment\MyFragment\obj\Debug\uploadflags.txt
+c:\users\paulc\source\repos\MyFragment\MyFragment\obj\Debug\res\layout\infofragment.xml
+c:\users\paulc\source\repos\MyFragment\MyFragment\bin\Debug\MyFragment.dll.mdb
+c:\users\paulc\source\repos\MyFragment\MyFragment\obj\Debug\android\assets\MyFragment.dll.mdb
+c:\users\paulc\source\repos\MyFragment\MyFragment\obj\Debug\MyFragment.csprojResolveAssemblyReference.cache
+c:\users\paulc\source\repos\MyFragment\MyFragment\obj\Debug\res\layout\storyfragment.xml
